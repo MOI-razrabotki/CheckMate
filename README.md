@@ -25,7 +25,7 @@
 ## Видео разработанного продукта
 * Командное видео с разработанным продуктом [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/5s41Iof64gM)
     [![Просмотр видео](./img/video_previews/video_preview_1.jpg)](https://youtu.be/5s41Iof64gM)
-* Видео с полным функционированием продукта [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/BVJHFvGekIg)
+* Видео с полной демонстрацией функционирования продукта [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/BVJHFvGekIg)
     [![Просмотр видео](./img/video_previews/video_preview_2.png)](https://youtu.be/BVJHFvGekIg)
 
 ## Фотографии
@@ -44,6 +44,16 @@
 </p>
 <p align="center">
 <img src="./img/photos/4.jpg" alt="Фотография разработанного продукта" width="800">
+</p>
+
+# Кратко о функционале
+
+<p align="center">
+<img src="./img/slides/hardware_slide.png" alt="Слайд функционала" width="800">
+</p>
+
+<p align="center">
+<img src="./img/slides/user_guide.png" alt="Краткое руководство" width="800">
 </p>
 
 ## 3d-модели
