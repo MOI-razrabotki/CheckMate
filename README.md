@@ -50,9 +50,9 @@
 
 **⚠️ По причине опасения кражи наших 3d моделей было решено отказаться от прикрепления 3d моделей в виде файлов в тело нашего репозитория. Вместо этого было решено загрузить их на онлайн-сервис по просмотру 3d моделей.**
 
-* 3d-модель Core-XY конструкции кареток [* тык *](https://a360.co/3Shld8j)
+* 3d-модель Core-XY конструкции кареток [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://a360.co/3Shld8j)
     [![Просмотр модели](./img/render_previews/peview_render_1.png)](https://a360.co/3Shld8j)
-* 3d-модель ЧекМейта с измененными полями [* тык *](https://skfb.ly/oEpMO)
+* 3d-модель ЧекМейта с измененными полями [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://skfb.ly/oEpMO)
     [![Просмотр модели](./img/render_previews/preview_render_2.png)](https://skfb.ly/oEpMO)
 
 ## 3d-рендеры разработанного продукта
