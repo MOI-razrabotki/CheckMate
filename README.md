@@ -28,7 +28,7 @@
 * Видео с полным функционированием продукта [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/BVJHFvGekIg)
     [![Просмотр видео](./img/video_previews/video_preview_2.png)](https://youtu.be/BVJHFvGekIg)
 
-## Фотографии разработанного продукта
+## Фотографии
 
 <p align="center">
 <img src="./img/photos/14.jpg" alt="Фотография разработанного продукта" width="800">
@@ -46,7 +46,7 @@
 <img src="./img/photos/4.jpg" alt="Фотография разработанного продукта" width="800">
 </p>
 
-## 3d-модели разработанного продукта
+## 3d-модели
 
 **⚠️ Чтобы наши 3d-модели не украли, мы не стали выкладывать файлы с ними в открытый доступ. Они загружены на специальный онлайн-сервис, где вы можете ознакомиться с каждым компонентом системы.**
 
@@ -55,7 +55,7 @@
 * 3d-модель ЧекМейта [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://skfb.ly/oEpMO)
     [![Просмотр модели](./img/render_previews/preview_render_2.png)](https://skfb.ly/oEpMO)
 
-## 3d-рендеры разработанного продукта
+## 3d-рендеры
 
 <p align="center">
 <img src="./img/renders/render_CheckMate_1.png" alt="3d рендер продукта" width="800">
@@ -86,7 +86,7 @@
     <img src="./img/diagrams/CM_Component_Diagram.png" alt="Component Diagram" width="800" style="background-color:white;">
     </p>
 
-## Код продукта
+## Исходный код
 
 **⚠️ Мы отказались от полной публикации исходного кода в репозитории. Вместо этого была размещена только его малая часть. Это сделано для того, чтобы обезопасить себя от любителей воровать чужой код, ибо исходники являются коммерческой тайной.**
 
