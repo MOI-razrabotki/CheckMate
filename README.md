@@ -31,11 +31,15 @@
 # Кратко о функционале
 
 <p align="center">
-<img src="./img/slides/hardware_slide.png" alt="Слайд функционала" width="800">
+<img src="./img/slides/functional.png" alt="Слайд функционала" width="800">
 </p>
 
 <p align="center">
 <img src="./img/slides/user_guide.png" alt="Краткое руководство" width="800">
+</p>
+
+<p align="center">
+<img src="./img/slides/hardware_slide.png" alt="Слайд механики" width="800">
 </p>
 
 ## Фотографии
