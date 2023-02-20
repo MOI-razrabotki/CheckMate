@@ -1,4 +1,4 @@
-# CheckMate
+# CheckMate [![](https://img.shields.io/badge/CheckMate-blue?style=for-the-badge)](https://github.com/MOI-razrabotki/CheckMate)
 > Шахматная доска с голосовым управлением и автоматизацией перемещения фигур
 
 <img src="./img/MOI_razrabotki_logo.png" align="right" alt="Логотип команды МОИ разработки" width="100" />
@@ -77,19 +77,19 @@
 
 * Use Case Diagram
     <p align="center">
-    <img src="./img/diagrams/CM_Use_Case_Diagram.png" alt="Use Case Diagram" width="800"  style="background-color:white;">
+    <img src="./img/diagrams/CM_Use_Case_Diagram.png" alt="Use Case Diagram" width="800" style="background-color:white;">
     </p>
 * State Machine Diagram
     <p align="center">
-    <img src="./img/diagrams/CM_State_Machine_Diagram.png" alt="State Machine Diagram" width="800"  style="background-color:white;">
+    <img src="./img/diagrams/CM_State_Machine_Diagram.png" alt="State Machine Diagram" width="800" style="background-color:white;">
     </p>
 * Sequence Diagram
     <p align="center">
-    <img src="./img/diagrams/CM_Sequence_Diagram.png" alt="Sequence Diagram" width="800"  style="background-color:white;">
+    <img src="./img/diagrams/CM_Sequence_Diagram.png" alt="Sequence Diagram" width="800" style="background-color:white;">
     </p>
 * Component Diagram
     <p align="center">
-    <img src="./img/diagrams/CM_Component_Diagram.png" alt="Component Diagram" width="800"  style="background-color:white;">
+    <img src="./img/diagrams/CM_Component_Diagram.png" alt="Component Diagram" width="800" style="background-color:white;">
     </p>
 
 ## Код продукта
