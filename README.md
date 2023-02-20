@@ -23,9 +23,9 @@
 3. **Андрей** - визуализирование в системе автоматизированного проектирования трехмерной модели совместно разработанному прототипу, его составных частей. 
 
 ## Видео разработанного продукта
-* Командное видео с разработанным продуктом [* тык *](https://youtu.be/5s41Iof64gM)
+* Командное видео с разработанным продуктом [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/5s41Iof64gM)
     [![Просмотр видео](./img/video_previews/video_preview_1.jpg)](https://youtu.be/5s41Iof64gM)
-* Видео с полным функционированием продукта [* тык *](https://youtu.be/UHgrxMTI6Ug)
+* Видео с полным функционированием продукта [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/UHgrxMTI6Ug)
     [![Просмотр видео](./img/video_previews/video_preview_2.png)](https://youtu.be/UHgrxMTI6Ug)
 
 ## Фотографии разработанного продукта
