@@ -53,7 +53,7 @@
 * 3d-модель Core-XY конструкции кареток [* тык *](https://a360.co/3Shld8j)
     [![Просмотр модели](./img/render_previews/peview_render_1.png)](https://a360.co/3Shld8j)
 * 3d-модель ЧекМейта с измененными полями [* тык *](https://skfb.ly/oEpMO)
-    [![Просмотр модели]()](https://skfb.ly/oEpMO)
+    [![Просмотр модели](./img/render_previews/peview_render_2.png)](https://skfb.ly/oEpMO)
 
 ## 3d-рендеры разработанного продукта
 
