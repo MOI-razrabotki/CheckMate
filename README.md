@@ -23,7 +23,7 @@
 4. **Андрей** визуализировал в системе автоматизированного проектирования трехмерные модели совместно разработанного прототипа, его составных частей.
 
 ## Видео разработанного продукта
-* Командное видео с разработанным продуктом [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/5s41Iof64gM)
+* Командное видео с разработанным продуктом <a href="https://youtu.be/5s41Iof64gM" target="_blank">![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)</a>
     [![Просмотр видео](./img/video_previews/video_preview_1.jpg)](https://youtu.be/5s41Iof64gM)
 * Видео с полным функционированием продукта [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://youtu.be/BVJHFvGekIg)
     [![Просмотр видео](./img/video_previews/video_preview_2.png)](https://youtu.be/BVJHFvGekIg)
