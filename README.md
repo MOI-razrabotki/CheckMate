@@ -69,19 +69,19 @@
 
 ## Функциональное описание в виде UML-Диаграмм
 
-* Use Case Diagram
+* Use Case Diagram (диаграмма прецедентов)
     <p align="center">
     <img src="./img/diagrams/CM_Use_Case_Diagram.png" alt="Use Case Diagram" width="800" style="background-color:white;">
     </p>
-* State Machine Diagram
+* State Machine Diagram (диаграмма состояний)
     <p align="center">
     <img src="./img/diagrams/CM_State_Machine_Diagram.png" alt="State Machine Diagram" width="800" style="background-color:white;">
     </p>
-* Sequence Diagram
+* Sequence Diagram (диаграмма последовательности)
     <p align="center">
     <img src="./img/diagrams/CM_Sequence_Diagram.png" alt="Sequence Diagram" width="800" style="background-color:white;">
     </p>
-* Component Diagram
+* Component Diagram (диаграмма компонентов)
     <p align="center">
     <img src="./img/diagrams/CM_Component_Diagram.png" alt="Component Diagram" width="800" style="background-color:white;">
     </p>
