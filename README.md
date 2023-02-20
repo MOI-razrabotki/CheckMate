@@ -1,2 +1,3 @@
 # CheckMate
-Physical automatic voice-assistant chess board that moves chess pieces by itself
+## Шахматная доска с голосовым распознаванием с автоматизацией перемещения фигур
+
