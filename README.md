@@ -77,6 +77,8 @@
 * 3d-модель ЧекМейта [![](https://img.shields.io/badge/*%20%D1%82%D1%8B%D0%BA%20*-lightgrey)](https://skfb.ly/oEpMO)
     [![Просмотр модели](./img/render_previews/preview_render_2.png)](https://skfb.ly/oEpMO)
 
+> Здесь представлена шахматная доска уже с обновленной наклейкой
+
 ## 3d-рендеры
 
 <p align="center">
