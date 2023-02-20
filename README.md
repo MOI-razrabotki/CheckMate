@@ -58,13 +58,13 @@
 ## 3d-рендеры разработанного продукта
 
 <p align="center">
-<img src="./img/renders/checkmate_1.png" alt="3d рендер продукта" width="800">
+<img src="./img/renders/render_CheckMate_1.png" alt="3d рендер продукта" width="800">
 </p>
 <p align="center">
-<img src="./img/renders/checkmate_2.png" alt="3d рендер продукта" width="800">
+<img src="./img/renders/render_CheckMate_2.png" alt="3d рендер продукта" width="800">
 </p>
 <p align="center">
-<img src="./img/renders/checkmate_3.png" alt="3d рендер продукта" width="800">
+<img src="./img/renders/render_CheckMate_3.png" alt="3d рендер продукта" width="800">
 </p>
 
 ## Электротехническая схема разработанного устройства
