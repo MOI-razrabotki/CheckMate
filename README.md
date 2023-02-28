@@ -131,6 +131,6 @@ ___
 <img src="./img/CheckMate_footer.png" align="center" width="200" />
 </p>
 
-## Документация по использованию
+## Документация
 
 ```COMING SOON```
