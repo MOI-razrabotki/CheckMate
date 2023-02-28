@@ -130,3 +130,7 @@ ___
 <p align="center" style="background-color:#0a0a0a">
 <img src="./img/CheckMate_footer.png" align="center" width="200" />
 </p>
+
+## Документация по использованию
+
+```COMING SOON```
