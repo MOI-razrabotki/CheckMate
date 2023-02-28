@@ -125,12 +125,12 @@
 
 Часть исходного кода распололожена в каталоге [```src```](https://github.com/MOI-razrabotki/CheckMate/tree/main/src)
 
+## Документация
+
+```COMING SOON```
+
 ___
 
 <p align="center" style="background-color:#0a0a0a">
 <img src="./img/CheckMate_footer.png" align="center" width="200" />
 </p>
-
-## Документация
-
-```COMING SOON```
